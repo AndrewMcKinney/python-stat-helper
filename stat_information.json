@@ -1,0 +1,14 @@
+{
+    "test_name": "two_mean_test",
+    "mu": "0",
+    "Ha": "!=",
+    "signifigance_level": "0.01",
+    "x_bar_one": "37.36",
+    "std_dev_one": "1.856",
+    "sample_size_one": "11",
+    "x_bar_two": "40.45",
+    "std_dev_two": "2.01",
+    "sample_size_two": "11",
+    "is_pop_std_dev": "false",
+    "pooled?": "true"
+}
